@@ -3,6 +3,12 @@ Phoenix Open Source Marathon
 A collaborative endurance hackathon for coders in Phoenix.
 ---
 
+Participants
+===
+@m3talsmith - [Restful Model](https://github.com/thedeepwoodsbrigade/restful-model)
+@RickCarlino - Not yet announced (I feel bad about this).
+
+
 ### What is it?
 As open source developers, we love to code, but often complain about loosing focus or having a lack of collaboration. By creating this event, we hope to create a collaborative and focused event that allows open source developers to share ideas and work together on the projects of their choosing. We hope this event will help developers get ahead on their open source projects while fostering open source involvement.
 
