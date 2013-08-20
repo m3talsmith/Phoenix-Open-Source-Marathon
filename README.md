@@ -5,7 +5,9 @@ A collaborative endurance hackathon for coders in Phoenix.
 
 Participants
 ===
+
 @m3talsmith - [Restful Model](https://github.com/thedeepwoodsbrigade/restful-model)
+
 @RickCarlino - Not yet announced (I feel bad about this).
 
 
