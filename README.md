@@ -30,7 +30,8 @@ All of these rules are up for discussion. Please submit a pull request if you wo
  * All projects must be hosted on github.
  * Participants must provide some form of guidance on how they would like their repository contributed to. This can be done in a number of ways, such as a todo list in the readme.md, a list of unclosed issues or a failing test suite.
  * If you previously entered a project into the marathon which is currently unstable or incomplete, you may not enter a new project during this iteration. Finish what you started, slacker.
- * No more than 10 contestants may enter.
+ * Those who join after the first 7 repositories are entered may still do so, but will not be able to enter a repository of their own. This is in the name of time more than anything.
+ * If a repo hits stable status before the 7 day mark, we will move to the next repo on the list. "Stable" means that all tests pass, all issues are closed and no new features are needed.
  * You are encouraged to watch this and all other related repos in the marathon so as to stay up-to-date on happenings.
 
 ### Is it possible to lose?
