@@ -29,7 +29,9 @@ All of these rules are up for discussion. Please submit a pull request if you wo
 Oh yeah. Contestants who fail to submit pull requests on more than three occasions shall be disqualified.
  
 ### What happens if I lose?
- **PULL REQUESTS WELCOME FOR THIS SECTION.** Loosers who fail to keep up in the marathon must buy drinks at the end-of-marathon beer session.
+ **PULL REQUESTS WELCOME FOR THIS SECTION.**
+
+Loosers who fail to keep up in the marathon must buy drinks at the end-of-marathon beer session. Also, shame tweets or appropriate photos may appear ... ;)
 
 ### Beer, aye?
 We will go have drinks at the Mellow Mushroom in Deer Valley off of I-17. Date is yet to be announced.
