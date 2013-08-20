@@ -8,13 +8,13 @@ As open source developers, we love to code, but often complain about loosing foc
 
 ### How do I register? How does this work?
 
-Developers may request entry by submitting an issue to this Github repo or by contacting me, Rick Carlino personally.
+Developers may request entry by submitting an issue to this Github repo or by contacting me, Rick Carlino, personally.
 
-When submitting a request for participation, please provide basic information about yourself, a link to the Github repo you would like to enter in the marathon.
+When submitting a request for participation, please provide basic information about yourself and a link to the Github repo you would like to enter in the marathon.
 
-On August 23rd, participants will be placed into a random order* and their respective repositories will be showcased.
+On **August 23rd**, participants will be placed into a random order and their respective repositories will be showcased.
 
-On August 26th, all participants will participate by providing 7 continuous days of pull requests to the respective participant's repository in the order that it was selected.
+On **August 26th**, all participants will participate by providing 7 continuous days of pull requests to the respective participant's repository in the order that it was selected.
 
 ### What are the rules?
 All of these rules are up for discussion. Please submit a pull request if you would like to change the rules.
@@ -28,7 +28,17 @@ All of these rules are up for discussion. Please submit a pull request if you wo
 Oh yeah. Contestants who fail to submit pull requests on more than three occasions shall be disqualified.
  
 ### What happens if I lose?
- **PULL REQUESTS WELCOME FOR THIS SECTION**
+ **PULL REQUESTS WELCOME FOR THIS SECTION.** Loosers who fail to keep up in the marathon must buy drinks at the end-of-marathon beer session.
 
-### What happens at the end of this?
-We go drink beer at the Mellow Mushroom in Deer Valley off of I-17. Date is yet to be announced.
+### Beer, aye?
+We will go have drinks at the Mellow Mushroom in Deer Valley off of I-17. Date is yet to be announced.
+
+### What do you mean 'picked at random'?
+Like this:
+```ruby
+devs = ['a', 'bunch', 'of', 'names']
+3.times{ devs.shuffle! }
+puts 'We will work on entries in the following order: '
+devs.each{|name| puts name}
+```
+Pretty scientific, eh?
