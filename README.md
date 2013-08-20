@@ -23,6 +23,7 @@ All of these rules are up for discussion. Please submit a pull request if you wo
  * Participants must provide some form of guidance on how they would like their repository contributed to. This can be done in a number of ways, such as a todo list in the readme.md, a list of unclosed issues or a failing test suite.
  * If you previously entered a project into the marathon which is currently unstable or incomplete, you may not enter a new project during this iteration. Finish what you started, slacker.
  * No more than 10 contestants may enter.
+ * You are encouraged to watch this and all other related repos in the marathon so as to stay up-to-date on happenings.
 
 ### Is it possible to lose?
 Oh yeah. Contestants who fail to submit pull requests on more than three occasions shall be disqualified.
