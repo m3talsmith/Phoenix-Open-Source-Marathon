@@ -6,11 +6,11 @@ A collaborative endurance hackathon for coders in Phoenix.
 Participants
 ===
 
-@m3talsmith - [Restful Model](https://github.com/thedeepwoodsbrigade/restful-model)
+@m3talsmith  - [Restful Model](https://github.com/thedeepwoodsbrigade/restful-model)
 
-@RickCarlino - Not yet announced (I feel bad about this).
+@RickCarlino - [FrozenJS](https://github.com/rickcarlino/frozen)
 
-
+@bbyler      - Something about databases???
 ### What is it?
 As open source developers, we love to code, but often complain about loosing focus or having a lack of collaboration. By creating this event, we hope to create a collaborative and focused event that allows open source developers to share ideas and work together on the projects of their choosing. We hope this event will help developers get ahead on their open source projects while fostering open source involvement.
 
@@ -20,9 +20,14 @@ Developers may request entry by submitting an issue to this Github repo or by co
 
 When submitting a request for participation, please provide basic information about yourself and a link to the Github repo you would like to enter in the marathon.
 
-On **August 23rd**, participants will be placed into a random order and their respective repositories will be showcased.
+On **August 30rd**, participants will be placed into a random order and their respective repositories will be showcased.
 
-On **August 26th**, all participants will participate by providing 7 continuous days of pull requests to the respective participant's repository in the order that it was selected.
+On **September 2nd**, all participants will participate by providing 7 continuous days of pull requests to the respective participant's repository in the order that it was selected.
+
+### How does it work?
+Together as a team, we will spend 7 days working on one participant's project. This usually means submitting pull requests, fixing open issues and making their test suite pass.
+
+When the 7 day period ends, we move to the next project which are in a random order (see code below)
 
 ### What are the rules?
 All of these rules are up for discussion. Please submit a pull request if you would like to change the rules.
@@ -40,7 +45,7 @@ Oh yeah. Contestants who fail to submit pull requests on more than three occasio
 ### What happens if I lose?
  **PULL REQUESTS WELCOME FOR THIS SECTION.**
 
-Loosers who fail to keep up in the marathon must buy drinks at the end-of-marathon beer session. Also, shame tweets or appropriate photos may appear ... ;)
+Losers who fail to keep up in the marathon must buy drinks at the end-of-marathon beer session. Also, shame tweets or appropriate photos may appear ... ;)
 
 ### Beer, aye?
 We will go have drinks at the Mellow Mushroom in Deer Valley off of I-17. Date is yet to be announced.
