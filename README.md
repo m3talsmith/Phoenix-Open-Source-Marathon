@@ -1,6 +1,6 @@
-Phoenix Open Source Marathon
+Pull Request Share-A-Thon
 ============================
-A collaborative endurance hackathon for coders in Phoenix.
+A collaborative endurance competition for coders in Phoenix.
 ---
 
 Participants
