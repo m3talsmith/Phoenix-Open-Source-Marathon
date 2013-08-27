@@ -11,6 +11,9 @@ Participants
 @RickCarlino - [FrozenJS](https://github.com/rickcarlino/frozen)
 
 @bbyler      - Something about databases???
+
+@jayachakladar - Go with the flow ... TBD
+
 ### What is it?
 As open source developers, we love to code, but often complain about loosing focus or having a lack of collaboration. By creating this event, we hope to create a collaborative and focused event that allows open source developers to share ideas and work together on the projects of their choosing. We hope this event will help developers get ahead on their open source projects while fostering open source involvement.
 
@@ -20,9 +23,11 @@ Developers may request entry by submitting an issue to this Github repo or by co
 
 When submitting a request for participation, please provide basic information about yourself and a link to the Github repo you would like to enter in the marathon.
 
-On **August 30rd**, participants will be placed into a random order and their respective repositories will be showcased.
+On **August 30th**, Participants will be doing a dry run.
 
-On **September 2nd**, all participants will participate by providing 7 continuous days of pull requests to the respective participant's repository in the order that it was selected.
+On **September 6th**, participants will be placed into a random order and their respective repositories will be showcased.
+
+On **September 8th**, all participants will participate by providing 7 continuous days of pull requests to the respective participant's repository in the order that it was selected.
 
 ### How does it work?
 Together as a team, we will spend 7 days working on one participant's project. This usually means submitting pull requests, fixing open issues and making their test suite pass.
